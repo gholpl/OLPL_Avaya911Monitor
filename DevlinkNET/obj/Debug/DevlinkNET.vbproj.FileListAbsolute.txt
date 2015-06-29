@@ -1,0 +1,46 @@
+D:\DOTNET\DevlinkNET\DevlinkNET\DevlinkNET\obj\Debug\ResolveAssemblyReference.cache
+D:\DOTNET\DevlinkNET\DevlinkNET\DevlinkNET\obj\Debug\DelinkNET.Resources.resources
+D:\DOTNET\DevlinkNET\DevlinkNET\DevlinkNET\obj\Debug\GenerateResource.read.1.tlog
+D:\DOTNET\DevlinkNET\DevlinkNET\DevlinkNET\obj\Debug\GenerateResource.write.1.tlog
+D:\DOTNET\DevlinkNET\DevlinkNET\DevlinkNET\bin\Debug\DevlinkNET.dll
+D:\DOTNET\DevlinkNET\DevlinkNET\DevlinkNET\bin\Debug\DevlinkNET.pdb
+D:\DOTNET\DevlinkNET\DevlinkNET\DevlinkNET\bin\Debug\DevlinkNET.xml
+D:\DOTNET\DevlinkNET\DevlinkNET\DevlinkNET\obj\Debug\DevlinkNET.dll
+D:\DOTNET\DevlinkNET\DevlinkNET\DevlinkNET\obj\Debug\DevlinkNET.xml
+D:\DOTNET\DevlinkNET\DevlinkNET\DevlinkNET\obj\Debug\DevlinkNET.pdb
+D:\DOTNET\DevlinkNET\DevlinkNET\DevlinkNET\obj\Debug\ResGen.read.1.tlog
+D:\DOTNET\DevlinkNET\DevlinkNET\DevlinkNET\obj\Debug\ResGen.write.1.tlog
+C:\Users\mtruty2\Downloads\DevlinkNET_Complete\DevlinkNET\DevlinkNET\bin\Debug\DevlinkNET.dll
+C:\Users\mtruty2\Downloads\DevlinkNET_Complete\DevlinkNET\DevlinkNET\bin\Debug\DevlinkNET.pdb
+C:\Users\mtruty2\Downloads\DevlinkNET_Complete\DevlinkNET\DevlinkNET\bin\Debug\DevlinkNET.xml
+C:\Users\mtruty2\Downloads\DevlinkNET_Complete\DevlinkNET\DevlinkNET\obj\Debug\DelinkNET.Resources.resources
+C:\Users\mtruty2\Downloads\DevlinkNET_Complete\DevlinkNET\DevlinkNET\obj\Debug\DevlinkNET.vbproj.GenerateResource.Cache
+C:\Users\mtruty2\Downloads\DevlinkNET_Complete\DevlinkNET\DevlinkNET\obj\Debug\DevlinkNET.dll
+C:\Users\mtruty2\Downloads\DevlinkNET_Complete\DevlinkNET\DevlinkNET\obj\Debug\DevlinkNET.xml
+C:\Users\mtruty2\Downloads\DevlinkNET_Complete\DevlinkNET\DevlinkNET\obj\Debug\DevlinkNET.pdb
+F:\Visual Studio 2013\Projects\Avaya911Monitor\DevlinkNET\bin\Debug\DevlinkNET.dll
+F:\Visual Studio 2013\Projects\Avaya911Monitor\DevlinkNET\bin\Debug\DevlinkNET.pdb
+F:\Visual Studio 2013\Projects\Avaya911Monitor\DevlinkNET\bin\Debug\DevlinkNET.xml
+F:\Visual Studio 2013\Projects\Avaya911Monitor\DevlinkNET\obj\Debug\DelinkNET.Resources.resources
+F:\Visual Studio 2013\Projects\Avaya911Monitor\DevlinkNET\obj\Debug\DevlinkNET.vbproj.GenerateResource.Cache
+F:\Visual Studio 2013\Projects\Avaya911Monitor\DevlinkNET\obj\Debug\DevlinkNET.dll
+F:\Visual Studio 2013\Projects\Avaya911Monitor\DevlinkNET\obj\Debug\DevlinkNET.xml
+F:\Visual Studio 2013\Projects\Avaya911Monitor\DevlinkNET\obj\Debug\DevlinkNET.pdb
+\\fs1\data\Tech Services\Projects\Visual Studio 2013\Projects\Avaya911Monitor\DevlinkNET\bin\Debug\DevlinkNET.dll
+\\fs1\data\Tech Services\Projects\Visual Studio 2013\Projects\Avaya911Monitor\DevlinkNET\bin\Debug\DevlinkNET.pdb
+\\fs1\data\Tech Services\Projects\Visual Studio 2013\Projects\Avaya911Monitor\DevlinkNET\bin\Debug\DevlinkNET.xml
+\\fs1\data\Tech Services\Projects\Visual Studio 2013\Projects\Avaya911Monitor\DevlinkNET\obj\Debug\DevlinkNET.vbprojResolveAssemblyReference.cache
+\\fs1\data\Tech Services\Projects\Visual Studio 2013\Projects\Avaya911Monitor\DevlinkNET\obj\Debug\DelinkNET.Resources.resources
+\\fs1\data\Tech Services\Projects\Visual Studio 2013\Projects\Avaya911Monitor\DevlinkNET\obj\Debug\DevlinkNET.vbproj.GenerateResource.Cache
+\\fs1\data\Tech Services\Projects\Visual Studio 2013\Projects\Avaya911Monitor\DevlinkNET\obj\Debug\DevlinkNET.dll
+\\fs1\data\Tech Services\Projects\Visual Studio 2013\Projects\Avaya911Monitor\DevlinkNET\obj\Debug\DevlinkNET.xml
+\\fs1\data\Tech Services\Projects\Visual Studio 2013\Projects\Avaya911Monitor\DevlinkNET\obj\Debug\DevlinkNET.pdb
+T:\Projects\Visual Studio 2013\Projects\Avaya911Monitor\DevlinkNET\bin\Debug\DevlinkNET.dll
+T:\Projects\Visual Studio 2013\Projects\Avaya911Monitor\DevlinkNET\bin\Debug\DevlinkNET.pdb
+T:\Projects\Visual Studio 2013\Projects\Avaya911Monitor\DevlinkNET\bin\Debug\DevlinkNET.xml
+T:\Projects\Visual Studio 2013\Projects\Avaya911Monitor\DevlinkNET\obj\Debug\DevlinkNET.vbprojResolveAssemblyReference.cache
+T:\Projects\Visual Studio 2013\Projects\Avaya911Monitor\DevlinkNET\obj\Debug\DelinkNET.Resources.resources
+T:\Projects\Visual Studio 2013\Projects\Avaya911Monitor\DevlinkNET\obj\Debug\DevlinkNET.vbproj.GenerateResource.Cache
+T:\Projects\Visual Studio 2013\Projects\Avaya911Monitor\DevlinkNET\obj\Debug\DevlinkNET.dll
+T:\Projects\Visual Studio 2013\Projects\Avaya911Monitor\DevlinkNET\obj\Debug\DevlinkNET.xml
+T:\Projects\Visual Studio 2013\Projects\Avaya911Monitor\DevlinkNET\obj\Debug\DevlinkNET.pdb

@@ -1,0 +1,82 @@
+﻿Installing assembly 'F:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.exe
+   logfile = F:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.InstallLog
+Installing service 911 Alert Server...
+Creating EventLog source 911 Alert Server in log Application...
+Rolling back assembly 'F:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.exe
+   logfile = F:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.InstallLog
+Restoring event log to previous state for source 911 Alert Server.
+Installing assembly 'F:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.exe
+   logfile = F:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.InstallLog
+Installing service 911 Alert Server...
+Creating EventLog source 911 Alert Server in log Application...
+Rolling back assembly 'F:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.exe
+   logfile = F:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.InstallLog
+Restoring event log to previous state for source 911 Alert Server.
+Installing assembly 'F:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.exe
+   logfile = F:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.InstallLog
+Installing service 911 Alert Server...
+Service 911 Alert Server has been successfully installed.
+Creating EventLog source 911 Alert Server in log Application...
+Committing assembly 'F:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.exe
+   logfile = F:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.InstallLog
+Uninstalling assembly 'F:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.exe
+   logfile = F:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.InstallLog
+Removing EventLog source 911 Alert Server.
+Service 911 Alert Server is being removed from the system...
+Service 911 Alert Server was successfully removed from the system.
+Attempt to stop service 911 Alert Server.
+Installing assembly 'F:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.exe
+   logfile = F:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.InstallLog
+Installing service 911 Alert Server...
+Service 911 Alert Server has been successfully installed.
+Creating EventLog source 911 Alert Server in log Application...
+Committing assembly 'F:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.exe
+   logfile = F:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.InstallLog
+Uninstalling assembly 'F:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.exe
+   logfile = F:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.InstallLog
+Removing EventLog source 911 Alert Server.
+Service 911 Alert Server is being removed from the system...
+Service 911 Alert Server was successfully removed from the system.
+Installing assembly 'F:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.exe
+   logfile = F:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.InstallLog
+Installing service 911 Alert Server...
+Service 911 Alert Server has been successfully installed.
+Creating EventLog source 911 Alert Server in log Application...
+Committing assembly 'F:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.exe
+   logfile = F:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.InstallLog

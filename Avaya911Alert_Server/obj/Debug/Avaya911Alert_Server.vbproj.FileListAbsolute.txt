@@ -1,0 +1,45 @@
+f:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.exe.config
+f:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.exe
+f:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.pdb
+f:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.xml
+f:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\DevlinkNET.dll
+f:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\DevlinkNET.pdb
+f:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\DevlinkNET.xml
+f:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\obj\Debug\Avaya911Alert_Server.Resources.resources
+f:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\obj\Debug\Avaya911Alert_Server.Service1.resources
+f:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\obj\Debug\Avaya911Alert_Server.vbproj.GenerateResource.Cache
+f:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\obj\Debug\Avaya911Alert_Server.exe
+f:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\obj\Debug\Avaya911Alert_Server.xml
+f:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\obj\Debug\Avaya911Alert_Server.pdb
+f:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\obj\Debug\Avaya911Alert_Server.vbprojResolveAssemblyReference.cache
+F:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\obj\Debug\Avaya911Alert_Server.ProjectInstaller.resources
+\\fs1\data\Tech Services\Projects\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.exe.config
+\\fs1\data\Tech Services\Projects\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.exe
+\\fs1\data\Tech Services\Projects\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.pdb
+\\fs1\data\Tech Services\Projects\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.xml
+\\fs1\data\Tech Services\Projects\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\DevlinkNET.dll
+\\fs1\data\Tech Services\Projects\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\DevlinkNET.pdb
+\\fs1\data\Tech Services\Projects\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\DevlinkNET.xml
+\\fs1\data\Tech Services\Projects\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\obj\Debug\Avaya911Alert_Server.vbprojResolveAssemblyReference.cache
+\\fs1\data\Tech Services\Projects\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\obj\Debug\Avaya911Alert_Server.Resources.resources
+\\fs1\data\Tech Services\Projects\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\obj\Debug\Avaya911Alert_Server.ProjectInstaller.resources
+\\fs1\data\Tech Services\Projects\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\obj\Debug\Avaya911Alert_Server.Service1.resources
+\\fs1\data\Tech Services\Projects\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\obj\Debug\Avaya911Alert_Server.vbproj.GenerateResource.Cache
+\\fs1\data\Tech Services\Projects\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\obj\Debug\Avaya911Alert_Server.exe
+\\fs1\data\Tech Services\Projects\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\obj\Debug\Avaya911Alert_Server.xml
+\\fs1\data\Tech Services\Projects\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\obj\Debug\Avaya911Alert_Server.pdb
+T:\Projects\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.exe.config
+T:\Projects\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.exe
+T:\Projects\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.pdb
+T:\Projects\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\Avaya911Alert_Server.xml
+T:\Projects\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\DevlinkNET.dll
+T:\Projects\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\DevlinkNET.pdb
+T:\Projects\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\bin\Debug\DevlinkNET.xml
+T:\Projects\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\obj\Debug\Avaya911Alert_Server.vbprojResolveAssemblyReference.cache
+T:\Projects\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\obj\Debug\Avaya911Alert_Server.Resources.resources
+T:\Projects\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\obj\Debug\Avaya911Alert_Server.ProjectInstaller.resources
+T:\Projects\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\obj\Debug\Avaya911Alert_Server.Service1.resources
+T:\Projects\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\obj\Debug\Avaya911Alert_Server.vbproj.GenerateResource.Cache
+T:\Projects\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\obj\Debug\Avaya911Alert_Server.exe
+T:\Projects\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\obj\Debug\Avaya911Alert_Server.xml
+T:\Projects\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Alert_Server\obj\Debug\Avaya911Alert_Server.pdb

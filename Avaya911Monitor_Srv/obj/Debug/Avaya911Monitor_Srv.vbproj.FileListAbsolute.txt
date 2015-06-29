@@ -1,0 +1,14 @@
+f:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Monitor_Srv\bin\Debug\Avaya911Monitor_Srv.exe.config
+f:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Monitor_Srv\bin\Debug\Avaya911Monitor_Srv.exe
+f:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Monitor_Srv\bin\Debug\Avaya911Monitor_Srv.pdb
+f:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Monitor_Srv\bin\Debug\Avaya911Monitor_Srv.xml
+f:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Monitor_Srv\bin\Debug\DevlinkNET.dll
+f:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Monitor_Srv\bin\Debug\DevlinkNET.pdb
+f:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Monitor_Srv\bin\Debug\DevlinkNET.xml
+f:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Monitor_Srv\obj\Debug\Avaya911Monitor_Srv.vbprojResolveAssemblyReference.cache
+f:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Monitor_Srv\obj\Debug\Avaya911Monitor_Srv.Form1.resources
+f:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Monitor_Srv\obj\Debug\Avaya911Monitor_Srv.Resources.resources
+f:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Monitor_Srv\obj\Debug\Avaya911Monitor_Srv.vbproj.GenerateResource.Cache
+f:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Monitor_Srv\obj\Debug\Avaya911Monitor_Srv.exe
+f:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Monitor_Srv\obj\Debug\Avaya911Monitor_Srv.xml
+f:\Visual Studio 2013\Projects\Avaya911Monitor\Avaya911Monitor_Srv\obj\Debug\Avaya911Monitor_Srv.pdb
